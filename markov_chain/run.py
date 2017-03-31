@@ -11,7 +11,8 @@ def main():
     # generate and display text using the Markov chain
     generate_display_text(text)
 
-def fetch_data_from_web():
+def fetch_data_from_web(url):
+    pass
 
 
 
